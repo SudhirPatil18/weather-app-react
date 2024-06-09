@@ -23,7 +23,7 @@ To get started with the Weather Tracker app, follow these steps:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/SudhirPatil18/weather-app-react
-    cd weather-tracker
+    cd weather-app-react
     ```
 
 2. **Install dependencies:**
